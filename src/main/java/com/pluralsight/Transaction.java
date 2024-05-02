@@ -19,6 +19,7 @@ public class Transaction {
         this.amount = amount;
     }
 
+
     public LocalDate getDate() {
         return date;
     }
@@ -59,6 +60,11 @@ public class Transaction {
         this.amount = amount;
     }
 
+    public double paymentAmount(double amount){
+
+        return this.amount = -amount;
+
+    }
     @Override
     public String toString() {
         return "Transaction{" +
