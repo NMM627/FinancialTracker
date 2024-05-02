@@ -43,6 +43,9 @@ Include screenshots or GIFs that show your application in action. Use tools like
 
 ![Application Screenshot](path/to/your/screenshot.png)
 
+![image](https://github.com/NMM627/FinancialTracker/assets/166551860/9e481a01-f467-4992-b7b8-0ae32ac4b26b)
+
+
 ## Future Work
 
 Outline potential future enhancements or functionalities you might consider adding:
